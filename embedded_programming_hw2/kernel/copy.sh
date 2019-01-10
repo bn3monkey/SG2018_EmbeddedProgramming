@@ -1,0 +1,1 @@
+sudo cp dev_kernel.c /work/achroimx_kernel/kernel/
